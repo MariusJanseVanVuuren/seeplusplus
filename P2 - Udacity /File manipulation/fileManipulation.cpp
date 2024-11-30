@@ -42,7 +42,7 @@ void readFile() {
 int main () {
     //create an output stream to write to the file
     //append the new lines to the end of the file
-    writeToFile()
+    writeToFile();
     
     // read and output the files to confirm new lines are visable
     readFile();
